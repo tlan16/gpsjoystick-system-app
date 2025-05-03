@@ -1,6 +1,6 @@
 id=gpsjoystick_system_app_installer
 name=Gpsjoystick System App Installer
-version=1.1
+version=1.2
 versionCode=1
 author=tlan16
 description=Install gpsjoystick as system app.
